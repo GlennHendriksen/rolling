@@ -1,0 +1,14 @@
+## Interface: 900002
+## Title: Rolling Manager
+## Version: 2.0
+## Notes: Get info who got the highest roll.
+## Author: ChisleLP
+## eMail: nixdaxd@gmail.com
+## SavedVariables: RollingI
+## DefaultState: enabled
+
+RollingGUI.lua
+RollingGUIplayer.lua
+Constants.lua
+Rolling.lua
+RollingGUIOptions.lua
